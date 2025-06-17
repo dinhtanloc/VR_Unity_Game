@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Serialization;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	
 	public class Health : MonoBehaviour

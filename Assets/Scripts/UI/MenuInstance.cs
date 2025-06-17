@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public class MenuInstance : MonoBehaviour
 	{

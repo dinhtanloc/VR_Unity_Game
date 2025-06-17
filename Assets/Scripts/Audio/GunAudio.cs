@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public class GunAudio : MonoBehaviour
 	{

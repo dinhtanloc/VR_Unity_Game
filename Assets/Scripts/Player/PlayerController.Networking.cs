@@ -2,7 +2,7 @@
 using Alteruna.Trinity;
 using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	// Handle player synchronisation, like rotation and some of the position data.
 	public partial class PlayerController

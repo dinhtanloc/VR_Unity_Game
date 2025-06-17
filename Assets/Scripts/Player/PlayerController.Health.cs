@@ -3,7 +3,7 @@ using UnityEngine;
 using Random = UnityEngine.Random;
 
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public partial class PlayerController
 	{

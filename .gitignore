@@ -69,7 +69,8 @@ TutorialInfo/
 /[Tt]emp/UnityPlayer-prev.log
 .vs/
 .utmp/
-
+FinalStructure_BurstDebugInformation_DoNotShip/
+*.apk
 *.meta
 *.prefab
 *.anim

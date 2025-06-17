@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public partial class PlayerController
 	{

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
     [RequireComponent(typeof(AudioSource))]
     public class RandomPitch : MonoBehaviour

@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 using UnityEditor;
 #endif
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public class MainMenu : MonoBehaviour
 	{

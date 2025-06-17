@@ -2,7 +2,7 @@ using Alteruna;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public partial class PlayerController
 	{
