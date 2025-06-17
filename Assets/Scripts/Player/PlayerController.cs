@@ -2,7 +2,7 @@
 using UnityEngine;
 using Alteruna;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	
 	// Class split into multiple files for clarity

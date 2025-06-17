@@ -4,7 +4,7 @@ using System.Linq;
 using JetBrains.Annotations;
 using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public class EfxManager : MonoBehaviour
 	{

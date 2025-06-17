@@ -2,7 +2,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public class RespawnController : MonoBehaviour
 	{

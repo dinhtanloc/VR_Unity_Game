@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	[RequireComponent(typeof(Animator))]
 	public class IKControl : MonoBehaviour {

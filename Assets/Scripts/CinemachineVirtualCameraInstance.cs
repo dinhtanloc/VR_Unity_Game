@@ -2,7 +2,7 @@
 using Cinemachine;
 using UnityEngine;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public class CinemachineVirtualCameraInstance : MonoBehaviour
 	{

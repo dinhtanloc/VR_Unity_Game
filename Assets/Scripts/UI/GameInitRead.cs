@@ -1,7 +1,7 @@
 ﻿using Alteruna;
 using UnityEngine.Events;
 
-namespace AlterunaFPS
+namespace FinalStructure
 {
 	public class GameInitRead : CommunicationBridge
 	{
